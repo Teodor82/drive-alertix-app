@@ -1,4 +1,4 @@
 # driver-safety-app
 Android application that helps drivers maintain safe distance, stay in lane, and detect drowsiness using only their phone camera.
 
-📘 [Read the full Business Plan](./docs/Business_Plan.md)
+📘 [Read the full Business Plan](./Docs/Business_Plan.md)
