@@ -18,7 +18,7 @@
 ---
 
 ## 1️⃣ Executive Summary
-**Driver Safety Navigation** is a mobile application that uses **AI and a smartphone camera** to analyze driver behavior, road conditions, and traffic signs in real time.  
+**DriveAlertix App** is a mobile application that uses **AI and a smartphone camera** to analyze driver behavior, road conditions, and traffic signs in real time.  
 The mission is simple but powerful: **reduce traffic accidents through accessible, intelligent, and affordable safety technology.**
 
 🧭 **Mission:**  
@@ -32,7 +32,7 @@ The mission is simple but powerful: **reduce traffic accidents through accessibl
 - Most cars in Europe, especially in Eastern regions, lack advanced driver assistance systems (ADAS).  
 
 ### 💡 The Solution
-**Driver Safety Navigation** provides:
+**DriveAlertix App** provides:
 - Real-time AI alerts for collisions, lane departure, fatigue, and pedestrians;  
 - Road sign recognition (speed limits, hazards, animals, roadworks, etc.);  
 - Integrated map navigation and voice feedback;  
@@ -176,7 +176,7 @@ The mission is simple but powerful: **reduce traffic accidents through accessibl
 ---
 
 ## 🏁 Final Message
-> **Driver Safety Navigation** turns every smartphone into a smart co-pilot that helps save lives on the road.  
+> **DriveAlertix App** turns every smartphone into a smart co-pilot that helps save lives on the road.  
 > It starts with one person — but it’s built to protect millions.
 
 ---
